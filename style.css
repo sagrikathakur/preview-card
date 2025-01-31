@@ -104,6 +104,16 @@ i{
   border-radius:50%;
   background-color:rgb(241, 198, 119);
 }
+.footer{
+  display: flex;
+  margin: 6px;
+  background-color: #bcf0f5;
+}
+.footer a{
+  text-decoration: none;
+  font-size: larger;
+  margin: 15px;
+}
 
 @media (max-width: 768px) {
   .container {
